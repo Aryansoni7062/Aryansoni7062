@@ -38,10 +38,10 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Aryansoni7062/netflix-clone-html-css">
+  <a href="https://aryansoni7062.github.io/aryansoni-portfolio.github.io/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryansoni7062&repo=netflix-clone-html-css&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Aryansoni7062/spotify-clone-html-css">
+  <a href="[https://github.com/Aryansoni7062/spotify-clone-html-css](https://aryansoni7062.github.io/Netflix-clone.github.io/)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryansoni7062&repo=spotify-clone-html-css&theme=tokyonight" />
   </a>
 </p>

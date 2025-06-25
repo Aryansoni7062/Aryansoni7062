@@ -13,7 +13,7 @@
 - 🔭 Currently building projects with **HTML, CSS, JavaScript**
 - 🌱 Learning **Java** and improving my **DSA** skills
 - 💡 Interested in UI/UX and responsive web design
-- 📫 How to reach me: [aryansoni7062@gmail.com](mailto:aryansoni7062@gmail.com)
+- 📫 How to reach me: [aryansoni235@gmail.com](mailto:aryansoni235@gmail.com)
 
 ---
 

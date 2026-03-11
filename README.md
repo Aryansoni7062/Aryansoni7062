@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/aryan-soni-a20811280" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aryansoni7062@gmail.com">
+  <a href="mailto:aryansoni235@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>

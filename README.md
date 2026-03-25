@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Soni</h1>
-<h3 align="center">Frontend Developer | Java Enthusiast | DSA Explorer</h3>
+<h3 align="center">Full Stack Developer | Spring Boot | Java Enthusiast | DSA Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aryansoni7062&label=Profile%20views&color=0e75b6&style=flat" alt="Aryansoni7062" />
@@ -9,20 +9,35 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate about **frontend web development** and **problem solving**
-- 🔭 Currently building projects with **HTML, CSS, JavaScript**
-- 🌱 Learning **Java** and improving my **DSA** skills
-- 💡 Interested in UI/UX and responsive web design
+- 💻 Passionate about **Full Stack Web Development** and **Problem Solving**
+- 🔭 Currently building **Full Stack Applications using Spring Boot**
+- 🌐 Strong in **Frontend (HTML, CSS, JavaScript)**
+- ⚙️ Backend development with **Java & Spring Boot**
+- 🗄️ Working with **MySQL & REST APIs**
+- 🌱 Improving my **Data Structures & Algorithms (DSA)**
+- 💡 Interested in **UI/UX and scalable system design**
 - 📫 How to reach me: [aryansoni235@gmail.com](mailto:aryansoni235@gmail.com)
 
 ---
 
 ### 💻 Tech Stack
 
-- 🌐 HTML | CSS | JavaScript  
-- ☕ Java (Core)  
+- 🌐 **Frontend:** HTML | CSS | JavaScript  
+- ⚙️ **Backend:** Java | Spring Boot  
+- 🗄️ **Database:** MySQL  
+- 🔗 **Other:** REST APIs  
 - 🧠 Data Structures & Algorithms  
-- 🧰 VS Code | Git | GitHub  
+- 🧰 Tools: VS Code | Git | GitHub | Postman  
+
+---
+
+### 🚀 Projects
+
+- 🎬 **Netflix Clone (Frontend)**
+- 🎵 **Spotify Clone (Frontend)**
+- 💼 **Job Portal Web Application (Spring Boot + Thymeleaf + MySQL)**
+- 🚗 **Line Following Robot Car**
+- 💡 **LED Display Matrix**
 
 ---
 
@@ -33,6 +48,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryansoni7062&theme=tokyonight" />
 </p>
 
+---
 
 ### 🌐 Connect With Me
 
